@@ -1,0 +1,1 @@
+A minesweeper clone implemented using tile mapping and layering tiles.  Uses standard mouse controls, left button to select a square and right button to flag/unflag it.
